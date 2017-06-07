@@ -1,2 +1,2 @@
 # notifications-archive
-This as an app for archiving push notifications from applications.
+This is an app for archiving push notifications from applications on a smartphone.
